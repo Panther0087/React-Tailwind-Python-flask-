@@ -5,8 +5,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#61DAFB',
-        secondary: '#282C34'
+        primary: '#dadce0',
+        secondary: '#fdcc1a'
       },
       animation: {
         'spin-slow': 'spin 20s linear infinite'
